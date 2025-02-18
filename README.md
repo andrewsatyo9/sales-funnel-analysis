@@ -30,6 +30,7 @@ Run the following command in your terminal to clone this repository:
 git clone https://github.com/andrewsatyo9/sales-funnel-analysis.git
 cd sales-funnel-analysis
 
-Author: ANDREW JAYA SATYO
-LinkedIn: linkedin.com/in/andrew-jaya-satyo-1501992b4
-Email: andrewjaya12345@gmail.com
+---
+*Author: Andrew Jaya Satyo*  
+*LinkedIn: linkedin.com/in/andrew-jaya-satyo-1501992b4*  
+*Email: andrewjaya12345@gmail.com*  
