@@ -22,13 +22,19 @@ Below is a visualization of the user drop-off across different stages:
 
 ![Sales Funnel Chart](sales_funnel_chart.png)
 
-## 🚀 How to Run the Analysis
+## 🛠️ How to Run the Analysis
 ### 1️⃣ Clone the Repository
 Run the following command in your terminal to clone this repository:
 
 ```bash
 git clone https://github.com/andrewsatyo9/sales-funnel-analysis.git
 cd sales-funnel-analysis
+```
+
+## 🚀 Future Improvements
+- Investigate reasons for high drop-off rates.
+- Recommend UX changes to improve conversion.
+- Conduct A/B testing to measure the impact of design changes.
 
 ---
 *Author: Andrew Jaya Satyo*  
